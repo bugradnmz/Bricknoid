@@ -1,0 +1,33 @@
+Initialize engine version: 4.6.9f1 (44099fd26189)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvldumd.dll 30.0.14.7212]
+    Renderer: NVIDIA GeForce GTX 1050
+    Vendor:   NVIDIA
+    VRAM:     3072 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\YEDEK\_UNITY3D\Projects\Bricknoid\Builds\Bricknoid\Bricknoid_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\YEDEK\_UNITY3D\Projects\Bricknoid\Builds\Bricknoid\Bricknoid_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\YEDEK\_UNITY3D\Projects\Bricknoid\Builds\Bricknoid\Bricknoid_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\YEDEK\_UNITY3D\Projects\Bricknoid\Builds\Bricknoid\Bricknoid_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\YEDEK\_UNITY3D\Projects\Bricknoid\Builds\Bricknoid\Bricknoid_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\YEDEK\_UNITY3D\Projects\Bricknoid\Builds\Bricknoid\Bricknoid_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.041 seconds
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: D:\YEDEK\_UNITY3D\Projects\Bricknoid\Builds\Bricknoid\Bricknoid_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\YEDEK\_UNITY3D\Projects\Bricknoid\Builds\Bricknoid\Bricknoid_Data\Managed\System.dll (this message is harmless)
+UnloadTime: 2.449100 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 442.
+Total: 0.894000 ms (FindLiveObjects: 0.024400 ms CreateObjectMapping: 0.006900 ms MarkObjects: 0.149700 ms  DeleteObjects: 0.071200 ms)
+
+UnloadTime: 0.519800 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 457.
+Total: 0.810800 ms (FindLiveObjects: 0.012900 ms CreateObjectMapping: 0.007800 ms MarkObjects: 0.158200 ms  DeleteObjects: 0.007700 ms)
+
